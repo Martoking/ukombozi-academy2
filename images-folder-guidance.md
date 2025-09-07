@@ -1,0 +1,1 @@
+Yes, you should add images to the designated images folder in your website project. This helps organize your assets and makes it easier for tools like Copilot to suggest relevant usage instances in your code.
